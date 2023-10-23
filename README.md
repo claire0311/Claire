@@ -7,7 +7,7 @@
 ## 課程筆記區  
 
 ## 作業連結區  
-https://github.com/claire0311/Claire/blob/main/hw1.ipynb
-https://github.com/claire0311/Claire/blob/main/HW2.ipynb
+作業一：https://github.com/claire0311/Claire/blob/main/hw1.ipynb
+作業二：https://github.com/claire0311/Claire/blob/main/HW2.ipynb
 ## 專題連結區  
 Markdown 語法說明：https://markdown.tw/
