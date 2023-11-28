@@ -7,7 +7,7 @@
 ## 課程筆記區  
 
 ## 作業連結區  
-作業一：[HW1](https://github.com/claire0311/Claire/blob/main/hw1.ipynb)
+作業一：[HW1](https://github.com/claire0311/Claire/blob/main/hw1.ipynb)  
 作業二：[HW2](https://github.com/claire0311/Claire/blob/main/HW2.ipynb)
 作業三：[HW3](https://github.com/claire0311/Claire/blob/main/hw3..ipynb)
 作業四：[HW4](https://github.com/claire0311/Claire/blob/main/HW4..ipynb)
